@@ -1,0 +1,23 @@
+{
+  "name": "NodeSequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pg": "^7.8.0",
+    "sequelize": "^4.42.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.4.0"
+  }
+}
